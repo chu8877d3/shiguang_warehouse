@@ -1158,3 +1158,7 @@ schools:
     initial: "D"
     resource_folder: "NEFU"
     
+  - id: "NJCIT"
+    name: "南京信息职业技术学院"
+    initial: "N"
+    resource_folder: "NJCIT" 
